@@ -33,6 +33,7 @@ img {
 .text-box {
     width: 288px;
     height: 129px;
+    margin-top: 15px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
